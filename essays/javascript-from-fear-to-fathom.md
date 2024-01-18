@@ -17,7 +17,7 @@ I was initially so averse to the idea of creating websites (especially when I wa
 
 ## Careful Approach
 
-<img width="300px" align="right" class="rounded float-start pe-4" src="../img/javascript-reflection/roseicon.png">
+<img width="300px" align="right" src="../img/javascript-reflection/roseicon.png">
 
 My first exposure to being required to learn Javascript was at the beginning of my Fall 2023 semester when I decided to join the Robotics and Space Exploration (RoSE) club at UH Manoa. I was interested in gaining more coding experience, especially because I had hardly any prior, and decided it would be an interesting club to join to learn more about coding and how it relates to physical machinery. After getting settled with the Guidance and Navigation Control team (essentially the coding team for RoSE), I was placed on a ground station subteam that ran a central website built for the robot's communications built with full-stack web development in Javascript with a bit of HTML and CSS. 
 
