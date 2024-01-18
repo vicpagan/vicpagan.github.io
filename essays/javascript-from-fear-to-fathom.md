@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on Javascript"
+title: "Javascript: From Fear to Fathom"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
