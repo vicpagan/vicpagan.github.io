@@ -13,7 +13,7 @@ summary: "I created a recursive algorithm to solve any sudoku puzzle for my ICS 
 
 <div align="center" class="text-center p-4">
   <img width="200px" src="../img/ics211-sudoku-solver/sudokuex1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ics211-sudoku-solver/sudokuex2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/ics211-sudoku-solver/sudokuex2.png" class="img-thumbnail" >
   <img width="200px" src="../img/ics211-sudoku-solver/sudokuaiescargot.png" class="img-thumbnail" >
 </div>
 
