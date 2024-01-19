@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" align="left" src="../img/my-upward-journey/ican.png">
+<img width="250px" align="left" src="../img/my-upward-journey/ican.png">
 
 ## Lack of Direction
 
@@ -26,7 +26,7 @@ to a point where I always feel that I am behind. This was never more clear than 
 
 At this point, I was at the end of my 2nd year in college and have gotten nowhere with my degree and nowhere with my experience with software engineering or programming of any kind. Although I felt compelled at the time to give up and cut my losses where they were and continue the stable job I had in food service, I knew I would not be happy living this way for the rest of my life, so I finally decided to grasp at my life and make a change.
 
-<img width="300px" align="left" src="../img/my-upward-journey/progress.png">
+<img width="250px" align="left" src="../img/my-upward-journey/progress.png">
 
 ## Upward Progress
 
