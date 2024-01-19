@@ -1,17 +1,19 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/ics212-database/database.png
+title: "ICS 212 Database Project"
+date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - C
+  - C++
+  - Unix
+  - Vi
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/ics212-database/ics212databaseproject.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
