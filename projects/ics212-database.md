@@ -13,7 +13,7 @@ labels:
 summary: "An address database project that I developed for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/ics212-database/ics212-database-project.png">
+<img class="img-fluid" src="../img/ics212-database/database-project.png">
 
 The image above shows the running result of a database project I developed in my ICS 212 course at UH Manoa. This project was entirely developed on the Unix terminal using Vi as our code editor.
 
