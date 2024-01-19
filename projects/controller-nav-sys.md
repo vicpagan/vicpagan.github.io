@@ -25,7 +25,10 @@ I also began my very first experiences with [Github](https://github.com/) and [I
 Here is some example code to illustrate the controller's use and how it communicates to the robot through ROS:
 
 ```
-function forward() {
+/////////////////////////
+// Movement control
+/////////////////////////
+    function forward() {
         message = new window.ROSLIB.Message({
             linear: { x: linSpeed, y: 0, z: 0, },
             angular: { x: 0, y: 0, z: 0, },
