@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Controller Navigation System"
+date: 2023
 published: true
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - React
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A controller-integrated robot control webpage for the Robotics and Space Exploration's Ground Station team."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
