@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="rounded float-start pe-4" src="../img/my-upward-journey/ican.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/my-upward-journey/ican.png">
 
 ## Lack of Direction
 
