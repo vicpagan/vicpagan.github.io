@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ics212-database/database-project.png
+image: img/ics212-database/database.png
 title: "ICS 212 Database Project"
 date: 2023
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "An address database project that I developed for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/ics212-database/ics212databaseproject.png">
+<img class="img-fluid" src="../img/ics212-database/ics212-database-project.png">
 
 The image above shows the running result of a database project I developed in my ICS 212 course at UH Manoa. This project was entirely developed on the Unix terminal using Vi as our code editor.
 
