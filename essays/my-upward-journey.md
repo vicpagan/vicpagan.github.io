@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="350px" align="left" src="../img/my-upward-journey/ican.png">
+<img width="300px" align="left" src="../img/my-upward-journey/ican.png">
 
 ## Lack of Direction
 
@@ -17,7 +17,7 @@ When I was a senior in high school, I would always hear my friends and classmate
 
 I had never really been that into economics in particular, and that notion was solidified in my very first semester of college at the University of Hawaii at Maui College when I took the Intro to Microeconomics course. To this day, I don't think there has been a class I have enjoyed partaking in less than that. After this semester I began truly trying to consider what I wanted to do in the future when all of a sudden one day it hit me: I should do computer science. I have always loved playing video games and being on the computer, so why not make that hobby into something I can build my life upon? "The tech industry is getting larger anyway" is what I always thought to myself to keep me motivated, but after a few years in the field, it became apparent that there are *many* others out there with the same idea.
 
-<img width="350px" align="left" src="../img/my-upward-journey/comparison.png">
+<img width="250px" align="left" src="../img/my-upward-journey/comparison.png">
 
 ## The Thief of Joy
 
@@ -26,7 +26,7 @@ to a point where I always feel that I am behind. This was never more clear than 
 
 At this point, I was at the end of my 2nd year in college and have gotten nowhere with my degree and nowhere with my experience with software engineering or programming of any kind. Although I felt compelled at the time to give up and cut my losses where they were and continue the stable job I had in food service, I knew I would not be happy living this way for the rest of my life, so I finally decided to grasp at my life and make a change.
 
-<img width="350px" align="left" src="../img/my-upward-journey/progress.png">
+<img width="300px" align="left" src="../img/my-upward-journey/progress.png">
 
 ## Upward Progress
 
