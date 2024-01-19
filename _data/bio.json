@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Unix", "Git/GitHub", "g++", "gcc", "ROS" ]
+      "keywords": [ "Unix", "Git/GitHub", "ROS" ]
     }
   ],
   "education": [
@@ -93,14 +93,6 @@
         "Worked with artists and writers through implementing their work into a developed product",
         "Created using game engines such as Unity and Ren'py with unfamiliar coding languages"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
   "references": [
