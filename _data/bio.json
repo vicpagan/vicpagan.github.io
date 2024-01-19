@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "React", "Vi" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "React", "Vi", "C#" ]
     },
     {
       "name": "Toolsets/OS",
@@ -65,21 +65,33 @@
       "endDate": "Present",
       "summary": "Front-end developer for the ground station subteam",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Built up the ground station website through collaboration with other team members",
+        "Developed a control webpage making use of a controller to connect to the robot through ROS"
       ]
     },
     {
-      "organization": "",
+      "organization": "Programming and Algorithms Club (PANDA) at UH Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Club Member",
+      "startDate": "2023-08-23",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Student-led learning and tutoring groups for ICS majors",
+        "Cover weekly rotating computer science topics relating to algorithms and data structures in detail"
+      ]
+    },
+    {
+      "organization": "Game Dev Club at UH Manoa",
+      "website": "",
+      "position": "Club Member",
+      "startDate": "2023-08-23",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed game projects with other students in one large group",
+        "Worked with artists and writers through implementing their work into a developed product",
+        "Created using game engines such as Unity and Ren'py with unfamiliar coding languages"
       ]
     }
   ],
@@ -89,12 +101,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
