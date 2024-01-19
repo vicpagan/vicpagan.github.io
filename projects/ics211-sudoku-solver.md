@@ -12,9 +12,9 @@ summary: "I created a recursive algorithm to solve any sudoku puzzle for my ICS 
 ---
 
 <div align="center" class="text-center p-4">
-  <img height="450px" width="200px" src="../img/ics211-sudoku-solver/sudokuex1.png" class="img-thumbnail" >
-  <img height="450px" width="200px" src="../img/ics211-sudoku-solver/sudokuex2.png" class="img-thumbnail" >
-  <img height="450px" width="200px" src="../img/ics211-sudoku-solver/sudokuaiescargot.png" class="img-thumbnail" >
+  <img height="425px" width="200px" src="../img/ics211-sudoku-solver/sudokuex1.png" class="img-thumbnail" >
+  <img height="425px" width="200px" src="../img/ics211-sudoku-solver/sudokuex2.png" class="img-thumbnail" >
+  <img height="425px" width="200px" src="../img/ics211-sudoku-solver/sudokuaiescargot.png" class="img-thumbnail" >
 </div>
 
 As part of one of my assignments in ICS 211, I had to create a sudoku-solving algorithm that uses recursion to fill each square and complete the puzzle. In the 3rd image above to the furthest right, you can see that particular puzzle's name is "AI Escargot", which is a famous sudoku problem that can only be solved by a computer due to how much computational retracing and backward steps are required to solve it, such that is it considered impossible for humans.
