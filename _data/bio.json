@@ -17,12 +17,13 @@
     { "name": "Full-Stack Development" },
     { "name": "Software Engineering" },
     { "name": "Robotics" },
-    { "name": "Machine Learning" }
+    { "name": "Machine Learning" },
+    { "name": "Algorithm Development" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "React", "Vi" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "React", "Vi" ]
     },
     {
       "name": "Toolsets/OS",
@@ -57,12 +58,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Robotics and Space Exploration (RoSE) at UH Manoa",
+      "website": "https://manoa.hawaii.edu/uh-vip/project/robotic-space-exploration-rose-vip/",
+      "position": "Guidance and Navigation Control Team Developer",
+      "startDate": "2023-08-23",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Front-end developer for the ground station subteam",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
