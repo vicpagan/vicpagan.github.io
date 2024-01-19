@@ -9,7 +9,7 @@ labels:
   - Javascript
   - React
   - GitHub
-summary: "A controller-integrated robot control webpage."
+summary: "A controller-integrated robot control webpage designed for the Ground Station control website in the Robotics and Space Exploration team at UH Manoa"
 ---
 
 <img class="img-fluid" src="../img/controller-nav-sys/controllerwebsite.png">
