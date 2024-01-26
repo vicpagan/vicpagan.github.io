@@ -6,7 +6,8 @@ title: "How to Be Smart About Not Being Smart"
 date: 2024-01-25
 published: true
 labels:
-  - Computer Science
+  - Stack Overflow
+  - Community Interaction
 ---
 
 <img width="200px" src="../img/how-to-be-smart/stackoverflow.png">
