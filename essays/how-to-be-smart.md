@@ -16,6 +16,7 @@ When it comes to trying to get help from others, a lot of people are either lost
 ## Bad Questions
 
 [Bad Question Example 1](https://stackoverflow.com/questions/65146566/find-loop-invariant-of-this-simple-algorithm)
+
 [Bad Question Example 2](https://stackoverflow.com/questions/11828270/how-do-i-exit-vim)
 
 Posted above are the links to 2 specific questions that I spotted on Stack Overflow that came across to be as a "bad question", or in better terms, a question that not only might not be likely to get you an answer (even if these specific examples have some) but can make it so that instead of assisting your learning development, you simply delay it by getting the correct answer spoonfed to you. One references a very basic command in an extremely common text-based code editor, and the other simply asks for help with a specific question that they can't solve, the first of which has a very simple solution that I was able to find from Google in less than 5 minutes! These are examples of "bad questions" because they either show a lack of genuine attempts to solve the problem or show a lack of want to understand and instead simply seek answers from others more intelligent than them.
@@ -23,6 +24,7 @@ Posted above are the links to 2 specific questions that I spotted on Stack Overf
 ## Great Questions
 
 [Great Question Example 1](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+
 [Great Question Example 2](https://stackoverflow.com/questions/22583391/peak-signal-detection-in-realtime-timeseries-data/22640362#22640362)
 
 Now onto better things, we have these 2 much better examples of questions asked on Stack Overflow that show a genuine interest in properly understanding the concepts and giving helpful examples and visuals for those readers to give much better responses to your question. What each question is about is not particularly important in this case, however, what is important is the content of the questions they asked and how they were formatted and worded. Both were very concise and asked relevant and important questions, showed previous attempts at figuring out the issue or question at hand on their own and once they were left at a loss came to an online forum for assistance, and went into as much specifics about the problem or question at hand as they could to be as clear as possible.
