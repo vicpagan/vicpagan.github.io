@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" align="left" src="../img/how-to-be-smart/stackoverflow.png">
+<img width="200px" src="../img/how-to-be-smart/stackoverflow.png">
 
 When it comes to trying to get help from others, a lot of people are either lost as to what to do or what to say to someone they want help from, or they are scared to even ask in the first place for fear of being looked down upon or not living up to some self-imposed standards. What some fail to understand, however, is that being able to ask others questions and get the help you need is what will help you live up to those self-imposed standards and help you grow in whatever field you are attempting to grow your understanding in. Part of this process is to ask the right questions though, and not knowing how to do so will do more harm than good for your prospects of growing in the future. There are right and wrong things you must do when asking a question, especially in popular online coding help forums such as Stack Overflow.
 
@@ -33,4 +33,4 @@ Now onto better things, we have these 2 much better examples of questions asked 
 
 Learning how to gravitate more towards asking well-made questions to others, especially on online forums, is important for growing your database of knowledge about the topic. A couple of important things to note: 1) Always try to solve the question or problem on your own first and 2) Use as many resources as possible to further your understanding outside of others, such as Google or manuals on software or previously answered questions. Take these things to heart and learn to be able to rely on others whenever necessary, and I can guarantee your path upward will be that much smoother.
 
-<img width="400px" src="../img/how-to-be-smart/einstein.jpeg">
+<img width="450px" src="../img/how-to-be-smart/einstein.jpeg">
