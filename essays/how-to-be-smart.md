@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="250px" align="left" src="../img/how-to-be-smart/stackoverflow.png">
+<img width="275px" align="left" src="../img/how-to-be-smart/stackoverflow.png">
 
 When it comes to trying to get help from others, a lot of people are either lost as to what to do or what to say to someone they want help from, or they are scared to even ask in the first place for fear of being looked down upon or not living up to some self-imposed standards. What some fail to understand, however, is that being able to ask others questions and get the help you need is what will help you live up to those self-imposed standards and help you grow in whatever field you are attempting to grow your understanding in. Part of this process is to ask the right questions though, and not knowing how to do so will do more harm than good for your prospects of growing in the future. There are right and wrong things you must do when asking a question, especially in popular online coding help forums such as Stack Overflow.
 
