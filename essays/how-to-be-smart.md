@@ -31,4 +31,4 @@ Now onto better things, we have these 2 much better examples of questions asked 
 
 Learning how to gravitate more towards asking well-made questions to others, especially on online forums, is important for growing your database of knowledge about the topic. A couple of important things to note: 1) Always try to solve the question or problem on your own first and 2) Use as many resources as possible to further your understanding outside of others, such as Google or manuals on software or previously answered questions. Take these things to heart and learn to be able to rely on others whenever necessary, and I can guarantee your path upward will be that much smoother.
 
-<img width="250px" src="../img/how-to-be-smart/einstein.jpeg">
+<img width="400px" src="../img/how-to-be-smart/einstein.jpeg">
