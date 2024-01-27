@@ -14,7 +14,15 @@ summary: "A controller-integrated robot control webpage designed for the Ground 
 
 <img class="img-fluid" src="../img/controller-nav-sys/controllerwebsite.png">
 
-The controller navigation system is a webpage I created as a part of the Robotics and Space Exploration's Ground Station team that translates input from the controller into movement commands sent to the robot we are using.
+## Robotics and Space Exploration (RoSE)
+
+At the beginning of my Fall 2023 semester, I decided to make a large change in my life and start taking my education and career more seriously. Maybe it was a random strike of motivation, or maybe it was the fearmongering of tech-bros online who claim that the software development industry is not growing and finding a job will be extremely hard without a solid background resume. Either way, I made it my goal to join at least one extra-curricular group or club to help expand my knowledge and experience in the field and one of these groups that I decided on was the Robotics and Space Exploration team at UH Manoa.
+
+RoSE is mostly infamous in the engineering department, as those students collaborating for part of a project for a few semesters is a requirement to graduate, but despite being made up of mostly engineers, the team needs a coding and software-focused team to control and allow the robot to complete its necessary tasks. I joined as part of the Guidance and Navigation Control team, or GNC, and started working on developing a navigation system on the ground station website that uses a controller instead of the previously used keyboard.
+
+## The Project Itself
+
+The controller navigation system is a webpage I created that translates input from the controller into movement commands sent to the robot we are using.
 
 This website was mostly implemented through the [React](https://react.dev/) framework and written using Javascript for the commands, both of which I gained much experience in through self-teaching methods to catch up to the rest of the team.
 
@@ -208,3 +216,9 @@ Here is some example code to illustrate the controller's use and how it communic
 ```
 
 While this is a very elementary implementation of the use of a controller to send ROS messages to the robot, it significantly improved upon the keyboard control system that was in use prior by having a more controlled regulation of ROS messages sent through the program.
+
+## My Overall Experience
+
+So far, I've really enjoyed being a part of this team and contributing to this project even if it is a lot of voluntary work on top of my already difficult course loads. Teaching myself Javascript, HTML/CSS, and the React framework all within the span of a few weeks just to be immediately assigned a job working directly with the control station was very stressful, but now going into my Spring 2023 semester at UH Manoa, I feel much more confident with my development of this project and have already begun to make several more improvements on top of what I have already done.
+
+My goal by the end of my time at RoSE is to have multiple well-developed smaller projects under my belt and get at least a couple of years of experience working with a team of developers on a large-scale project such as this. Hopefully, these experiences will help to make me a better software developer and assist my in my future endeavors in the field.
