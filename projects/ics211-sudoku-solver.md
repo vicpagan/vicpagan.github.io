@@ -69,6 +69,6 @@ public static boolean fillSudoku(int[][] sudoku) {
 ```
 It uses the helper function checkSudoku to determine if that number for the selected position is a valid input, and if so, continues the recursion. Otherwise, it does not and the program continues to recursively run itself through every number in every possible square of the puzzle, eventually landing on a solution assuming the puzzle was possible in the first place. Both at the beginning and the end, a function prints out the sudokus in an easy-to-read visual image created with hyphens, vertical bars, and addition signs, using loops to fill in the spaces in-between with the numbers in the sudoku.
 
-## What I've Learned
+## The Blissful Feeling of Success
 
 To give credit where it is due, both my classmates and I had a sufficient amount of help from the TA of my section as well as the professor, and without them, this process would have been much more difficult. Most of all, learning how to come to a superior for assistance with a project in the correct manner was the largest thing I took away from this project overall. While this is not the largest or most impressive project I have completed so far or will ever complete, I am still proud of the result as it was the very first coding project I had ever done. Finally figuring things out and ending up with a working product made me feel a sense of euphoria I hope to keep experiencing throughout every completion of an issue or project in my future computer science career.
