@@ -8,6 +8,7 @@ published: true
 labels:
   - Java
   - Eclipse
+  - Algorithm
 summary: "I created a recursive algorithm to solve any sudoku puzzle for my ICS 211 class."
 ---
 
