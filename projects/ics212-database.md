@@ -94,5 +94,5 @@ int llist::addRecord(int accNum, char name[], char address[])
 
 ## Do I Have Any Regrets?
 
-This was one of my favorite projects that I have created so far in my computer science journey at UH Manoa. It has helped me to learn a lot about C, C++, classes, Unix, text-based IDEs, command line arguments, how memory works in computers, and several other key topics that are important for 
+This was one of my favorite projects that I have created so far in my computer science journey at UH Manoa. It has helped me to learn a lot about C, C++, classes, Unix, text-based IDEs, command line arguments, how memory works in computers, and several other key topics that are important for having a strong well of knowledge relating to the field. While it was an extremely stressful course and cost me my sanity at some times during the semester, I would still take it again. The knowledge and experience I've gained in this class far outweighed the stress of it all, and this address database project is my masterpiece that I have to show for it. A masterpiece to me, at least.
 
