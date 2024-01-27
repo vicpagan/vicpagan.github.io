@@ -13,7 +13,7 @@ labels:
 summary: "An address database project that I developed for ICS 212."
 ---
 
-<img class="img-fluid" width="600px" align="middle" src="../img/ics212-database/database-project.png">
+<img width="600px" align="center" src="../img/ics212-database/database-project.png">
 
 ## What Do You Do When Fears Come True
 
