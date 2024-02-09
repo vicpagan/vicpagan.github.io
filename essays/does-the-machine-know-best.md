@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="250px" src="../img/does-the-machine-know-best/eslint.png">
+<img width="200px" src="../img/does-the-machine-know-best/eslint.png">
 
 ## Initial Impressions
 
@@ -24,4 +24,4 @@ One of the main things I realized about IDE-implemented coding standards is how 
 
 Despite all of my minor complaints and issues with ESLint sometimes when it does something like not allow me to put a bunch of spaces after a line of code and add a comment ("too many spaces!!" it says), I do like how it allows consistency in one's code. More likely than not I will be using ESLint or some other form of coding standard moving into the future to ensure that my code stays consistent and easily readable, I will most definitely be making some personal adjustments that fit my preferences. You could say this defeats the purpose of a coding *standard*, but I think that as long as a minimum level of readability is achieved, allowing those slight adjustments would help coders such as myself still keep clean and consistent code while not feeling too restricted in what we can write. In the end, code is a language just like any other, and every person has their own personal coding "fingerprint" or "accent" that differentiates them from others. While it could be argued that some are definitively better than others, I believe that past a certain point, this is a non-issue and we should allow programmers and coders to have some control over how they create.
 
-<img width="250px" src="../img/does-the-machine-know-best/fingerprint.jpeg">
+<img width="200px" src="../img/does-the-machine-know-best/fingerprint.jpeg">
