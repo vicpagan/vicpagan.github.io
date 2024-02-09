@@ -20,8 +20,10 @@ As part of my ICS 314 course on Software Development at UH Manoa, I had to learn
 
 One of the main things I realized about IDE-implemented coding standards is how it has a strict adherence to whatever presets it is given to follow, and is unable to view the context of the code in a less logical and more practical sense. Specific examples that come to mind would be not allowing double or more spacing at any point in the code, requiring spacing between certain things like function names and their parameters, etc. While it is possible to edit these settings of ESLint to your liking, wouldn't that defeat the entire purpose of a coding standard? To ensure that everyone's code is readable by everyone else and formatted in an easy-to-read manner? 
 
+<img width="200px" align="right" src="../img/does-the-machine-know-best/fingerprint.jpeg">
+
 ## A Necessary... Okay?
 
 Despite all of my minor complaints and issues with ESLint sometimes when it does something like not allow me to put a bunch of spaces after a line of code and add a comment ("too many spaces!!" it says), I do like how it allows consistency in one's code. More likely than not I will be using ESLint or some other form of coding standard moving into the future to ensure that my code stays consistent and easily readable, I will most definitely be making some personal adjustments that fit my preferences. You could say this defeats the purpose of a coding *standard*, but I think that as long as a minimum level of readability is achieved, allowing those slight adjustments would help coders such as myself still keep clean and consistent code while not feeling too restricted in what we can write. In the end, code is a language just like any other, and every person has their own personal coding "fingerprint" or "accent" that differentiates them from others. While it could be argued that some are definitively better than others, I believe that past a certain point, this is a non-issue and we should allow programmers and coders to have some control over how they create.
 
-<img width="200px" src="../img/does-the-machine-know-best/fingerprint.jpeg">
+<img width="200px" align="right" src="../img/does-the-machine-know-best/fingerprint.jpeg">
