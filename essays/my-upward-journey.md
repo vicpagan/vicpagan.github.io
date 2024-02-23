@@ -7,6 +7,7 @@ date: 2023-01-18
 published: true
 labels:
   - Software Engineering
+  - Life Experiences
 ---
 
 <img width="200px" align="left" src="../img/my-upward-journey/ican.png">
