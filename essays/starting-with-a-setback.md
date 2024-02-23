@@ -11,7 +11,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="250px" src="../img/starting-with-a-setback/webdesign.png">
+<img width="300px" src="../img/starting-with-a-setback/webdesign.png">
 
 ## The Mystery of My Mind
 
@@ -23,7 +23,7 @@ The section in my ICS 314 course at UH Manoa focusing on UI frameworks has been 
 
 Despite this, I have been trying my best to keep up with all of the work and expectations of me so far in the course and have been getting along the best I can. It helps me a lot not to think of the code I am writing as drawing or designing what a website would look like, but instead similar to software engineering where all my code has a purpose and try to understand what each line does in a vacuum rather than relying on what I see on the screen for a result. For example, instead of thinking "ah if I use 'd-flex' and 'justify-content-center' it will center an image, I mostly think of the result I want to achieve and how the code I write brings that result, similar to how when you make a calculator app using terminal UI, its less about what you see and more about understanding what each part of the code does and the result it brings. It is hard to explain because I cannot conceptualize what it is like for the "normal" person to picture things and the thought processes behind such things, but this is the best I can do.
 
-<img width="250px" src="../img/starting-with-a-setback/boostrap.png">
+<img width="225px" src="../img/starting-with-a-setback/boostrap.png">
 
 ## Looking Forward
 
