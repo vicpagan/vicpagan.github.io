@@ -7,6 +7,7 @@ date: 2024-01-17
 published: true
 labels:
   - Computer Science
+  - Javascript
 ---
 
 ## Fear
