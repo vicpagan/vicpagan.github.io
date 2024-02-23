@@ -25,6 +25,6 @@ Despite this, I have been trying my best to keep up with all of the work and exp
 
 ## Looking Forward
 
-<img width="200px" align="left" src="../img/starting-with-a-setback/boostrap.png">
+<img width="200px" src="../img/starting-with-a-setback/boostrap.png">
 
 I have never really thought of myself as someone who will ever be a front-end developer of any sort. The challenges that my condition brings me when it comes to visual stimuli make it harder than necessary, so instead of trying to force myself against the tide, I've accepted that moving forward I will try to pursue and perfect the things I am good at instead. I cannot say this section on website designing and UI frameworks has been fun, because it has not, but I understand it is an important tool for a software developer to have so I will do and learn what is necessary to ensure a secure future career in the field. As of writing this, my class is going to be moving into the React framework from Bootstrap 5 and raw HTML/CSS, which I fear will be an even larger struggle, but I shall persevere through it nonetheless.
