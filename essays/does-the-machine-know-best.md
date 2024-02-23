@@ -8,6 +8,7 @@ published: true
 labels:
   - Coding Standards
   - ESLint
+  - Javascript
 ---
 
 <img width="200px" src="../img/does-the-machine-know-best/eslint.png">
