@@ -9,6 +9,8 @@ labels:
   - Javascript
   - React
   - GitHub
+  - ROS
+  - Robotics
 summary: "A controller-integrated robot control webpage designed for the Ground Station control website in the Robotics and Space Exploration team at UH Manoa"
 ---
 
