@@ -10,9 +10,7 @@ labels:
 
 ## UH Lost and Found
 
-<h5>Authors: Victor, Jalen, Eisen, Michelle, Sierra</h5>
-
-
+Authors: Victor Pagan, Jalen Lum, Eisen Hower Oallesma, Michelle Rasavong, Sierra Jansons-Dizon
 
 ## Overview
 
