@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Torvald's Theory of Developer Evolution"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
 labels:
-  - Coding Standards
-  - ESLint
-  - Javascript
+  - Design Patterns
+  - Development Process
 ---
 
 ## A Confusing Concept
