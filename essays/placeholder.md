@@ -21,11 +21,11 @@ I have **not** used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
 
-  Test sentence.
+  - Test sentence.
 
   2. In-class Practice WODs
 
-  Tets Senccnte.
+&nbsp; &nbsp; &nbsp; &nbsp; Tets Senccnte.
 
   3. In-class WODs
 
