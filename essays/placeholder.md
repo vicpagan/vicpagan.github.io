@@ -23,30 +23,35 @@ I have **not** used AI in class this semester in the following areas:
 
 - In-class Practice WODs
 
-  - In-class WODs
+- In-class WODs
 
-  - Essays
+- Essays
 
-  - Final project
+- Final project
 
-  6. Learning a concept / tutorial
+- Learning a concept / tutorial
 
-  7. Answering a question in class or in Discord
+- Answering a question in class or in Discord
 
-  8. Asking or answering a smart-question
+- Asking or answering a smart-question
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+- Coding example e.g. “give an example of using Underscore .pluck”
 
-  10. Explaining code
+- Explaining code
 
-  11. Writing code
+- Writing code
 
-  12. Documenting code
+- Documenting code
 
-  13. Quality assurance 
+- Quality assurance
 
-  14. Other uses in ICS 314 not listed above
+- Other uses in ICS 314 not listed above
 
+While the original formatting for this essay was to respond to each of these course elements individually as to why or why I did not use AI for them, I have found that to be unnecessary as the reasoning for my choice to not use AI for any of them is the same: 
+
+**Because it was more important for me to find the answer on my own.**
+
+Whether this was through classmates, Stack Overflow, etc., I personally prefer to uphold the idea that it is more important for an individual to conceptualize and understand these topics through their own means of research and assistance from others. Asking AI for answers or to fix something is, in my eyes, equivalent to asking an upperclassman the answers to a homework problem rather than having them tutor you and allow you to solve the answer yourself through guidance. As I like to say, "I'd rather teach myself how to fish than ask a robot for food every day".
 
 ### III. Impact on Learning and Understanding:
 
