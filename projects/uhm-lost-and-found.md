@@ -14,7 +14,10 @@ labels:
 summary: "My groupmates and I created a mock website for a lost and found database for the UH Manoa campus."
 ---
 
-<img width="500px" src="../img/uhm-lost-and-found/homepage.png" class="justify-content-center">
+<div align="center" class="text-center p-4">
+  <img width="700px" src="../img/uhm-lost-and-found/homepage.png" class="justify-content-center">
+</div>
+
 
 ## Project Overview
 
@@ -63,8 +66,8 @@ if (Meteor.isServer) {
 These methods are used for the AddDepartment and ListDepartments pages respectively, as you can see in the screenshots below:
 
 <div align="center" class="text-center p-4">
-  <img height="250px" src="../img/uhm-lost-and-found/adddepartmentpage.png">
-  <img height="250px" src="../img/uhm-lost-and-found/listdepartmentspage.png" >
+  <img height="350px" src="../img/uhm-lost-and-found/adddepartmentpage.png">
+  <img height="350px" src="../img/uhm-lost-and-found/listdepartmentspage.png" >
 </div>
 
 ## Final Thoughts
