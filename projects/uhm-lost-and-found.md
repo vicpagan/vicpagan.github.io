@@ -15,7 +15,7 @@ summary: "My groupmates and I created a mock website for a lost and found databa
 ---
 
 <div align="center" class="text-center p-4">
-  <img width="700px" src="../img/uhm-lost-and-found/homepage.png" class="justify-content-center">
+  <img width="700px" src="../img/uhm-lost-and-found/homepage.png" class="justify-content-center" style="border:1px solid #000000">
 </div>
 
 
@@ -66,8 +66,8 @@ if (Meteor.isServer) {
 These methods are used for the AddDepartment and ListDepartments pages respectively, as you can see in the screenshots below:
 
 <div align="center" class="text-center p-4">
-  <img height="350px" src="../img/uhm-lost-and-found/adddepartmentpage.png">
-  <img height="350px" src="../img/uhm-lost-and-found/listdepartmentspage.png" >
+  <img height="350px" src="../img/uhm-lost-and-found/adddepartmentpage.png" style="border:1px solid #000000">
+  <img height="350px" src="../img/uhm-lost-and-found/listdepartmentspage.png" style="border:1px solid #000000">
 </div>
 
 ## Final Thoughts
