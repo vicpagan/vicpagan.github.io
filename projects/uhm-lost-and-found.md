@@ -14,7 +14,7 @@ labels:
 summary: "My groupmates and I created a mock website for a lost and found database for the UH Manoa campus."
 ---
 
-<img width="500px" src="../img/uhm-lost-and-found/homepage.png" align="center">
+<img width="500px" src="../img/uhm-lost-and-found/homepage.png" class="justify-content-center">
 
 ## Project Overview
 
